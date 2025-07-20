@@ -47,14 +47,6 @@ The goal of this project is to create an **interactive analytics dashboard** tha
 
 ---
 
-## 📷 Screenshots
-
-| Dashboard Overview | Company Insights |
-|--------------------|------------------|
-| ![overview](screenshots/overview.png) | ![companies](screenshots/companies.png) |
-
----
-
 ## 📌 Outcomes & Learnings
 
 - Developed a full Tableau dashboard with drill-down filters and KPIs
